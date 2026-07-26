@@ -17,15 +17,6 @@ This project is a GUI-based Java application designed to efficiently manage and 
 * Robust user input validation with error-handling pop-ups.
 * Highly efficient $O(n)$ single-pass algorithm for calculating highest, lowest, and average grades.
 
-## 💻 How to Run This Project
-1. **Clone the repository:**
-   gh repo clone nishitchaudhary/CodeAlpha_StudentgGradeTracker
-2. **Navigate to the source directory:**
-   
-3. **Compile the Java file:**
-   
-4. **Execute the program:**
-  
 
 ---
 *This task was completed by a B.Tech Computer Science and Engineering student passionate about bridging algorithms with robust software engineering.*
