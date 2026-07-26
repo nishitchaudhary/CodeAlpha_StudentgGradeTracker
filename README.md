@@ -19,7 +19,7 @@ This project is a GUI-based Java application designed to efficiently manage and 
 
 ## 💻 How to Run This Project
 1. **Clone the repository:**
-   
+   gh repo clone nishitchaudhary/CodeAlpha_StudentgGradeTracker
 2. **Navigate to the source directory:**
    
 3. **Compile the Java file:**
